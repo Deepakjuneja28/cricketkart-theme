@@ -1,0 +1,9 @@
+/*
+Theme Name: GK Woo Child
+Template: astra 
+*/
+#ast-scroll-top {
+  display: none !important;
+  visibility: hidden;
+  opacity: 0;
+}
